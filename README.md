@@ -1,2 +1,2 @@
-# aprendizado em python
- esse é um repositorio apenas para salvar meus programas que fiz nos meus estudos
+# CALCULADORA DE IMC EM PYTHON COM INTERFACE GRAFICA
+meu primeiro program em python com interface grafica.
